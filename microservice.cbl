@@ -1,20 +1,20 @@
 000000 identification division.
 000000 program-id. microservice.
-       environment division.
-configuration section.
-repository. 
-    function csv-ecb-rates
-    function all intrinsic.
-input-output section.
-file-control.
-    select file-csv assign to "resources/eurofxref.csv" 
-    organization is sequential
-    file status is file-status.
-data division.
-file section.
-fd file-csv.
-    01 csv-content pic x(1024).
-working-storage section.
+000000 environment division.
+000000 configuration section.
+000000 repository. 
+000000    function csv-ecb-rates
+000000    function all intrinsic.
+000000 input-output section.
+000000 file-control.
+000000    select file-csv assign to "resources/eurofxref.csv" 
+000000    organization is sequential
+000000    file status is file-status.
+000000 data division.
+000000 file section.
+000000 fd file-csv.
+000000    01 csv-content pic x(1024).
+000000 working-storage section.
     78 SYSLOG-FACILITY-USER value 8.
     78 SYSLOG-SEVERITY-ERRROR value 3.
     01 file-status pic x(2).
