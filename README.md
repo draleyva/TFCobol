@@ -29,3 +29,7 @@
 - gnucobol (GnuCOBOL) 3.1.2.0 Para la implementación de un servicio rest que recibirá las coordenadas y las almacenará en base de datos
 
 - Postgres Base de datos
+
+## Implementación
+
+La implementación se encuentra en el servidor 188.166.14.6 disponible con el usuario *development* y contraseña *password*.
