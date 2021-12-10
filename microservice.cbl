@@ -1,7 +1,6 @@
->>SOURCE FORMAT FREE
-identification division.
-program-id. microservice.
-environment division.
+       identification division.
+       program-id. microservice.
+       environment division.
 configuration section.
 repository. 
     function csv-ecb-rates
