@@ -10,4 +10,4 @@
 
 - El formato es similar a la imagen siguiente que se encuentra en este repositorio en la carpeta resources
 
-![Excel Format](https://github.com/draleyva/TFCobol/resources/qwexcel.png?raw=true)
+![Ejemplo Archivo](https://github.com/draleyva/TFCobol/blob/main/resources/qwexcel.png?raw=true)
