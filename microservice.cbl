@@ -36,7 +36,7 @@ procedure division.
     *> convert csv-content to the list of key-value pairs
     move csv-ecb-rates(csv-content) to dataset.
     *> start HTTP server with http-handler callback
-    call "receive-tcp" using "localhost", 8000, 0, address of entry "http-handler".
+    call "receive-tcp" using "188.166.14.6", 8000, 0, address of entry "http-handler".
 end program microservice.
 identification division.
 program-id. http-handler.
