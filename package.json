@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Sample node.js",
+  "main": "QaliWarma",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "npm install",
+    "start": "node main.js"
+  },
+  "author": "David Ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "javascript-lp-solver": "^0.4.24",
+    "js-sha256": "^0.9.0",
+    "puppeteer": "^11.0.0",
+    "read-excel-file": "^5.2.20"
+  }
+}
