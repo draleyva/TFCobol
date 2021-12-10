@@ -1,5 +1,5 @@
-       identification division.
-       program-id. microservice.
+000000 identification division.
+000000 program-id. microservice.
        environment division.
 configuration section.
 repository. 
