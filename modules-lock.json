@@ -1,0 +1,22 @@
+{
+  "gcblunit": {
+    "name": "gcblunit",
+    "version": "1.22.6",
+    "debug": true
+  },
+  "core-network": {
+    "name": "core-network",
+    "version": "3.4.5",
+    "debug": false
+  },
+  "core-string": {
+    "name": "core-string",
+    "version": "3.11.6",
+    "debug": false
+  },
+  "core-datetime": {
+    "name": "core-datetime",
+    "version": "3.0.6",
+    "debug": false
+  }
+}

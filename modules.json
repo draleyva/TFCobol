@@ -1,0 +1,21 @@
+{
+  "$schema": "https://cobolget.com/schema.json",
+  "name": "package-name",
+  "description": "Short description",
+  "modules": [],
+  "dialect": "gnucobol",
+  "licenses": [
+    "MIT"
+  ],
+  "authors": [
+    "Author"
+  ],
+  "dependencies": {
+    "core-network": "*",
+    "core-string": "*"
+  },
+  "dependencies-debug": {
+    "gcblunit": "*"
+  },
+  "scripts": {}
+}
