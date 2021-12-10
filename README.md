@@ -33,3 +33,9 @@
 ## Implementación
 
 La implementación se encuentra en el servidor 188.166.14.6 disponible con el usuario *development* y contraseña *password*.
+
+### Ejemplo reporte
+
+- El reporte de los paquetes y su cantidad para cada institución educativa se muestra a continuación
+
+![Ejemplo Reporte](https://github.com/draleyva/TFCobol/blob/main/resources/report.png?raw=true)
