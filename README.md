@@ -26,7 +26,7 @@
 
 - Node.js v16.13.1 Para la implementación de la lectura del archivo excel, captura de posición geográfica y reporte de paquetes
 
-- gnucobol (GnuCOBOL) 3.1.2.0 Para la implementación de un servicio rest que recibirá las coordenadas y las almacenará en base de datos
+- gnucobol (GnuCOBOL) 3.1.2.0 Para la implementación de un microservicio que recibirá las coordenadas y las almacenará en base de datos
 
 - Postgres Base de datos
 
